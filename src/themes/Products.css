@@ -1,0 +1,15 @@
+.MainContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.Card {
+  padding: 10px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
